@@ -1,0 +1,9 @@
+#!/bin/bash
+
+DOCKER_SERVER_NAME=""
+DOCKER_WEB_ROOT_DIR=/var/www/web
+DOCKER_WEBSITE_NAME=""
+DOCKER_WEB_LISTENING_PORT=
+DOCKER_DB_PASSWORD=
+# relative to data/ dir
+DOCKER_WWW_PATH="www"
